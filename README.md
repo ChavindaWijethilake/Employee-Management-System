@@ -91,9 +91,5 @@ This is a simple console-based Employee Management System built using Java. It a
 * Additional features such as searching, sorting, and reporting on employee data could be implemented.
 * The system could be extended to include user roles and permissions for different levels of access.
 
-[Your Email Address (Optional)]
-[Link to your GitHub profile (Optional)]
 
-## License
 
-[Your License (e.g., MIT License, Apache License 2.0)] - Add a standard open-source license if you plan to share or open-source your project.
